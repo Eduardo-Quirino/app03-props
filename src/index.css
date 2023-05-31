@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: rgba(255, 235, 205, 0.346);
+}
+
+.container {
+  border: 1px solid black;
+  width: 750px;
+  height: 540px;
+  margin: 35px 35px 30px 80px ;
+
+}
+.topo{
+  text-align: center;
+  text-transform: uppercase;
+  
+}
+img{
+  text-align: center;
+  width: 80%;
+  height: 80%;
+  margin-top: 40px;
+  margin-left: 70px;
+}
+.dados{
+  text-align: center;
+}
